@@ -10,8 +10,11 @@
 
 ## About me:
 - 👨 I'm [Nandini Kapoor](https://nandinikapoor.netlify.app/) currently a Second Year CSE student at <a href="https://www.srmist.edu.in/">**SRM Institute of Science and Technology, Kattankulathur** </a> <br/>
-I'm a self taught Frontend Developer who loves to play around with different frameworks and design. <br/> When I am not coding or pushing pixels you can find me reading or binge watching.
-- 🌱 I’m currently learning **React and NextJS**
+I'm a self taught Frontend Developer who loves to play around with different frameworks and design.
+- 🔭 I’m currently learning **React and NextJS and DSA **
+- 🚀 I’m looking to collaborate with other developers
+- 🥅 2021 Goals: Get deep into DSA, web development, start out competitive programming, contribute to Open Source projects and survive this pandemic!
+- ⚡Facts about me:  When I am not coding or pushing pixels you can find me reading or binge watching.
 - 🌐 Visit my [porfolio website](https://nandinikapoor.netlify.app/) for complete background and contact.
 
 <br/>
